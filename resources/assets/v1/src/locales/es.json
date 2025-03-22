@@ -182,6 +182,6 @@
     },
     "config": {
         "html_language": "es",
-        "date_time_fns": "El MMMM hacer, yyyy a las HH:mm:ss"
+        "date_time_fns": "d 'de' MMMM 'de' yyyy 'a las' HH:mm:ss"
     }
 }
